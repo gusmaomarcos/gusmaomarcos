@@ -1,10 +1,11 @@
 <!--# 💫 
 About Me:
  🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact -->
- # Chemical Engineer | Researcher | Data Scientist
- 
+ Chemical Engineer | Researcher | Data Scientist
+
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusmaosouzamarcos@gmail.com) - gusmaosouzamarcos@gmail.com
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gusmaomarcos)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusmaosouzamarcos@gmail.com)
+ 
 
 
 <!-- ## 🌐 Socials:
